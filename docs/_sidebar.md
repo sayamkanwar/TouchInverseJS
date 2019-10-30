@@ -1,0 +1,3 @@
+- [Home](/#touch-inverse)
+- [Gestures](/#gestures)
+- [Installation](/#installation)
