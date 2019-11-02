@@ -29,4 +29,5 @@ You can download the latest release of the library from [here](http://sayamkanwa
     <script src="touchinverse.min.js"></script>
     <div id="touchinverse"></div>
 
-<span class="left">&copy; TouchInverse.js</span> | <span class="right">Created by <a href="http://sayamkanwar.com/">Sayam Kanwar</a></span> 
+## Issues
+If you encounter any issue, feel free ping me at sayamkanwar616@gmail.com. :)
