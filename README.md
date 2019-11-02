@@ -1,8 +1,7 @@
 # TouchInverse.js
+> Redefining Touchless Interactions.
 
 ## Official Documentation
-
-> Redefining Touchless Interactions.
 
 ![wiki](./docs/wiki.jpg)
 
