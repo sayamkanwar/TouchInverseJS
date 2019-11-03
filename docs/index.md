@@ -18,15 +18,16 @@ Scroll up            |  Scroll down           |    Scroll left        |    Scrol
 
 It's as simple as including just two lines of code.
 
-    <script src="https://cdn.touchinverse.com/touchinverse.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/sayamkanwar/TouchInverse.js/dist/touchinverse.min.js"></script>
     <div id="touchinverse"></div>
 
-<center>or</center>
+<center>OR</center>
 
-You can download the latest release of the library from [here](http://sayamkanwar.com/) and include it locally in your project.
+You can download the latest release of the library from [here](https://cdn.jsdelivr.net/gh/sayamkanwar/TouchInverse.js/dist/touchinverse.min.js) and include it locally in your project.
 
     <script src="touchinverse.min.js"></script>
     <div id="touchinverse"></div>
+
 
 <footer>
 <span class="left">&copy; Touch Inverse</span> <span class="right">Created by <a href="http://sayamkanwar.com/">Sayam Kanwar</a></span> <br><br>
