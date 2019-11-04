@@ -20,15 +20,15 @@ Scroll up            |  Scroll down           |    Scroll left        |    Scrol
 
 It's as simple as including just two lines of code.
 
-<script src="https://cdn.jsdelivr.net/gh/sayamkanwar/TouchInverseJS/dist/touchinverse.min.js"></script>
-<div id="touchinverse"></div>
+    <script src="https://cdn.jsdelivr.net/gh/sayamkanwar/TouchInverseJS/dist/touchinverse.min.js"></script>
+    <div id="touchinverse"></div>
 
 OR
 
 You can download the latest release of the library from [here](https://cdn.jsdelivr.net/gh/sayamkanwar/TouchInverseJS/dist/touchinverse.min.js) and include it locally in your project.
 
-<script src="touchinverse.min.js"></script>
-<div id="touchinverse"></div>
+    <script src="touchinverse.min.js"></script>
+    <div id="touchinverse"></div>
 
 ### Server-Side Setup 
 
