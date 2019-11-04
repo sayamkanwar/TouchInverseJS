@@ -1,0 +1,5 @@
+left positive
+right positive
+scrollup positive
+negative
+scrolldown positive
