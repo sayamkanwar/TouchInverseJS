@@ -20,12 +20,12 @@ Scroll up            |  Scroll down           |    Scroll left        |    Scrol
 
 It's as simple as including just two lines of code.
 
-    <script src="https://cdn.jsdelivr.net/gh/sayamkanwar/TouchInverse.js/dist/touchinverse.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/sayamkanwar/TouchInverseJS/dist/touchinverse.min.js"></script>
     <div id="touchinverse"></div>
 
 OR
 
-You can download the latest release of the library from [here](https://cdn.jsdelivr.net/gh/sayamkanwar/TouchInverse.js/dist/touchinverse.min.js) and include it locally in your project.
+You can download the latest release of the library from [here](https://cdn.jsdelivr.net/gh/sayamkanwar/TouchInverseJS/dist/touchinverse.min.js) and include it locally in your project.
 
     <script src="touchinverse.min.js"></script>
     <div id="touchinverse"></div>
@@ -34,8 +34,8 @@ You can download the latest release of the library from [here](https://cdn.jsdel
 
 Follow these steps to start the backend server easily.
 
-1. `git clone https://github.com/sayamkanwar/TouchInverse.js.git` 
-2. `cd TouchInverse.js`
+1. `git clone https://github.com/sayamkanwar/TouchInverseJS.git` 
+2. `cd TouchInverseJS`
 
 TouchInverse's backend has been created on python2.7. It will be migrated to python3 in the next release. 
 
