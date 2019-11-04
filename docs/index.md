@@ -50,7 +50,7 @@ To run the server, enter `gunicorn main:app 80`. The backend server will be live
 
 You can now simply include the `touchinverse.min.js` file in your project and it'll add the plugin automatically. 
 
-If you want to test it, a demo has been included in the repository by the name `demo.html`. You can fire up a python http server to test it: `python -m SimpleHTTPServer 80`. Open `http://localhost/demo.html` in your browser and you can see it in action.  
+If you want to test it, a demo has been included in the repository by the name of `demo.html`. You can fire up a python http server to test it: `python -m SimpleHTTPServer 80`. Open `http://localhost/demo.html` in your browser and you can see it in action.  
 
 <footer>
 <span class="left">&copy; Touch Inverse</span> <span class="right">Created by <a href="http://sayamkanwar.com/">Sayam Kanwar</a></span> <br><br>
