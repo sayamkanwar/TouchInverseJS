@@ -52,6 +52,8 @@ You can now simply include the `touchinverse.min.js` file in your project and it
 
 If you want to test it, a demo has been included in the repository by the name of `demo.html`. You can fire up a python http server to test it: `python -m SimpleHTTPServer 80`. Open `http://localhost/demo.html` in your browser and you can see it in action.  
 
+P.S. If you change the port due to some reason, you'll have to edit the `window.post_url` variable in `touchinverse.min.js` file.  
+
 <footer>
 <span class="left">&copy; Touch Inverse</span> <span class="right">Created by <a href="http://sayamkanwar.com/">Sayam Kanwar</a></span> <br><br>
 </footer>
