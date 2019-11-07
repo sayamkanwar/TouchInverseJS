@@ -52,7 +52,9 @@ You can now simply include the `touchinverse.min.js` file in your project and it
 
 If you want to test it, a demo has been included in the repository by the name of `demo.html`. You can fire up a python http server to test it: `python -m SimpleHTTPServer 80`. Open `http://localhost/demo.html` in your browser and you can see it in action.  
 
-P.S. If you change the port due to some reason, you'll have to edit the `window.post_url` variable in `touchinverse.min.js` file.  
+P.S. If you change the port due to some reason or host the server on a cloud, you'll have to edit the `window.post_url` variable in `touchinverse.min.js` file.  
+
+<a href="https://www.producthunt.com/posts/touchinverse?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-touchinverse" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=173759&theme=light" alt="TouchInverse - Redefining Touchless Interactions.  | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
 <footer>
 <span class="left">&copy; Touch Inverse</span> <span class="right">Created by <a href="http://sayamkanwar.com/">Sayam Kanwar</a></span> <br><br>
