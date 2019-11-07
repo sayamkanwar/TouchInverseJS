@@ -54,6 +54,8 @@ If you want to test it, a demo has been included in the repository by the name o
 
 P.S. If you change the port due to some reason or host the server on a cloud, you'll have to edit the `window.post_url` variable in `touchinverse.min.js` file.  
 
+<br>
+
 <a href="https://www.producthunt.com/posts/touchinverse?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-touchinverse" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=173759&theme=light" alt="TouchInverse - Redefining Touchless Interactions.  | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
 <footer>
