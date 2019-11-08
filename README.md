@@ -54,5 +54,8 @@ If you want to test it, a demo has been included in the repository by the name o
 
 P.S. If you change the port due to some reason or host the server on a cloud, you'll have to edit the `window.post_url` variable in `touchinverse.min.js` file.  
 
+## Planned Updates
+I'm working on the model's accuracy to make it as close to perfect as possible so in the next few releases, the model's accuracy should be better than the present one. The next release of Touch Inverse will also have the backend API hosted on a cloud server so as to avoid the server setup. 
+
 ## Issues
 If you encounter any issue, feel free ping me at sayamkanwar616@gmail.com. :)
